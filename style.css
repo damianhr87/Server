@@ -1,0 +1,18 @@
+#pagewrap {
+ 
+width: 94%:
+}
+ 
+#content {
+ 
+width: 65%;
+}
+ 
+#sidebar {
+ 
+width: 30%;
+}
+table {
+   width: 100%;
+   border: 2px solid #000;
+}
